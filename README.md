@@ -5,3 +5,6 @@ Exibir Mapa Leaflet com API Fetch e Mysql
 
 ### Projeto funcionando
 https://juniormelo.dev.br/projetos/apiFetch/
+
+![API-FETCH](https://user-images.githubusercontent.com/22121703/157751130-8fbd8df3-c141-4c01-8118-e409a89e76fd.png)
+
